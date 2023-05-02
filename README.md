@@ -1,4 +1,7 @@
-### Hello. I'm Red_
+## Hello. I'm Red_
+I like developing discord bots 
+## Social Media
+
 
 <!--
 **RedstoneCraft/RedstoneCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
